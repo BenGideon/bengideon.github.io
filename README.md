@@ -4,7 +4,8 @@
 
 > https://bengideon.github.io
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/bengideon.github.io/)
+<!-- ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/bengideon.github.io/) -->
+
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/bengideon.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/bengideon/bengideon.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://bengideon.github.io/)
@@ -15,12 +16,12 @@
 
 <p align="center"> 
   <kbd>
-    <a href="https://bengideon.github.io/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://bengideon.github.io/" target="_blank"><img src="">
   </a>
   </kbd>
 </p>
 
-:star: Star me on GitHub — it helps!
+<!-- :star: Star me on GitHub — it helps! -->
 
 ## Features 📋
 
@@ -48,7 +49,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+To view a live example, **[click here](https://bengideon.github.io/)**
 
 ## Tools Used 🛠️
 
