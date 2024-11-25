@@ -2,7 +2,7 @@
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://varadbhogayata.github.io
+> https://bengideon.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/bengideon.github.io/)
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/bengideon.github.io)
